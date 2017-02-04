@@ -1,4 +1,6 @@
 # Lab 01 - Lists and GUI Introduction
+##Question 1: 
+![Screenshot](https://github.com/xluo62/lab-01-lists-gui-introduction/blob/master/balite.png)
 ##1. In an ideal scenario, what other methods should be overridden to improve performance?
        
 ##2. Why is the iteration of an ArrayList and LinkedList not the same speed (not complexity, actual speed)? Which one is most likely faster?
@@ -8,6 +10,8 @@
     LinkedList: add()=O(n),remove()=O(n),get()=O(n),set()=O(n);
 ##4. Describe the benefit(s) of the tests provided.
     The benefits of this test are to help us get familiar with all methods and usages in the arraylist and linkedlist in java, and help us understand about these two data structures better.
+##Question 2:
+![Screenshot](https://github.com/xluo62/lab-01-lists-gui-introduction/blob/master/fa.png)
 ##1. Why is FXML used over raw code?
 ##2. What is the benefit of using SceneBuilder?
     ScenBuilder can make you create an user interface way faster, since it can generate the FXML source code when you create the user interface. ScenBuilder creates a quick prototype to get feedback.
